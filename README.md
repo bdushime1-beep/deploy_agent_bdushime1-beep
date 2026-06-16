@@ -39,4 +39,4 @@ This repository contains `setup_project.sh`, which bootstraps the Student Attend
 
 ## Video link
 
-https://youtu.be/j63kB3F1d9c
+- Add your run-through video link here when you have it.
